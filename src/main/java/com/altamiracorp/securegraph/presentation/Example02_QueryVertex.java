@@ -1,7 +1,8 @@
 package com.altamiracorp.securegraph.presentation;
 
-import com.altamiracorp.securegraph.*;
-import com.altamiracorp.securegraph.accumulo.AccumuloAuthorizations;
+
+import org.securegraph.*;
+import org.securegraph.accumulo.AccumuloAuthorizations;
 
 public class Example02_QueryVertex {
     public static void main(String[] args) throws Exception {
